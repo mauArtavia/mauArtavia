@@ -68,11 +68,11 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 - 🍽️ **Restaurant POS System**  
   Point of Sale system built for a real restaurant. Focused on order management, usability, and efficiency.  
   🛠️ Tech: Node.js, MySQL, React.  
-  🔗 https://github.com/mauArtavia/tu-repo
+  🔗 https://github.com/mauArtavia/sistema-facturacion
 
-- 🧺 **Laundry Management Game (WIP)**  
+- 🧺 **Laundry Management Game (Project Linen)**  
   Game inspired by Stardew Valley, currently in design phase. Focused on resource management and progression systems.  
-  🔗 https://github.com/mauArtavia/tu-repo
+  🔗 https://github.com/mauArtavia/project-linen
 
 ---
 
