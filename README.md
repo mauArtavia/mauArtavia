@@ -84,7 +84,10 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mauArtavia&layout=compact&theme=vision-friendly-dark)](https://github.com/mauArtavia) -->
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mauArtavia&show_icons=true&theme=vision-friendly-dark" height="115"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mauArtavia&theme=dark&background=000000" height="115"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mauArtavia&layout=compact&theme=vision-friendly-dark" height="115"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mauArtavia&show_icons=true&theme=vision-friendly-dark" height="140"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mauArtavia&theme=dark&background=000000" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mauArtavia&layout=compact&theme=vision-friendly-dark" height="140"/>
 </p>
